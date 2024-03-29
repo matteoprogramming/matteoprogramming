@@ -4,7 +4,6 @@
 - 🖥️ Looking for internship this summer
 - 📫 Write me on [my personal mail](mailto:matteo.bernardi.intership@gmail.com)
 - ⚡ Fun fact: born to be different
-- 🎶 Musica lover
 
 <!---
 matteoprogramming/matteoprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
