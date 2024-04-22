@@ -21,8 +21,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/matteoprogramming/matteoprogramming/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
