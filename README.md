@@ -5,9 +5,9 @@
 - 👋 Hi, my name is Matteo Bernardi.
 - 👀 I’m interested in changing the world with technology.
 - 🌱 I'm currently studying Applied Computer Science and Artificial Intelligence
-- 🖥️ Looking for internship this summer
+- 🖥️ Avaible as a SWE - AI enginner
 - 📫 Write me on [my personal mail](mailto:matteo.bernardi.intership@gmail.com)
-- ⚡ What they say about me: cavallo di razza!
+
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
