@@ -19,9 +19,5 @@ the SystemsLab research group of Sapienza University of Rome.
 
 ### Other projects
 
-- **[video_score_pdf_extractor](https://github.com/matteoprogramming/video_score_pdf_extractor)**:
-  extracts the staves shown in a music video into a PDF score.
-- **[slides_extractor](https://github.com/matteoprogramming/slides_extractor)**:
-  extracts the slides from a recorded lecture.
 - **[manzoni_ai](https://github.com/matteoprogramming/manzoni_ai)**
 - **[wasatext](https://github.com/matteoprogramming/wasatext)** (Go)
